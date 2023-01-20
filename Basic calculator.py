@@ -10,3 +10,5 @@ elif operation == "/" :
     print(num1/num2)
 elif operation == "*" :
     print(num1*num2)
+elif operation == "^" :
+    print(num1**num2)
