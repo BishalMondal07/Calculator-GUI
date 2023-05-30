@@ -1,4 +1,4 @@
-# Calculator using Tkinter 
+# Calculator GUI
 This is a simple calculator GUI built using Python and Tkinter. It provides a user-friendly interface for performing basic arithmetic operations.
 
 # Features 
